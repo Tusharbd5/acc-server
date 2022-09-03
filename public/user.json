@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Tanjim Hasan",
+        "contact": "01716565655",
+        "address": "Mirpur-2, Dhaka-1216",
+        "photoUrl": "www.ggg.com"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Sabrina",
+        "contact": "01314543428",
+        "address": "Mirpur-1, Dhaka-1216",
+        "photoUrl": "www.fff.com"
+    }
+]
